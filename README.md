@@ -8,7 +8,7 @@
   <img src="./docs/heropfp.png" alt="patch notes oracle" width="120">
 </p>
 
-# patch notes oracle — feedback → action
+# patch notes oracle
 
 ## what this is
 turn raw player forum/wiki comments into a short, realistic dev to-do list: themes, sentiment, suggested team handoffs
