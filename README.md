@@ -1,6 +1,15 @@
+﻿<!-- LS BADGES START -->
+<p align="left">
+  <a href="https://github.com/ludus-scrinium/patch-notes-oracle/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/ludus-scrinium/patch-notes-oracle"></a>
+  <a href="https://github.com/ludus-scrinium/patch-notes-oracle"><img alt="Repo Stars" src="https://img.shields.io/github/stars/ludus-scrinium/patch-notes-oracle"></a>
+  <a href="https://github.com/ludus-scrinium/patch-notes-oracle/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ludus-scrinium/patch-notes-oracle"></a>
+  <a href="https://github.com/ludus-scrinium/patch-notes-oracle/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/ludus-scrinium/patch-notes-oracle"></a>
+  <a href="https://github.com/ludus-scrinium/patch-notes-oracle/pulls"><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/ludus-scrinium/patch-notes-oracle"></a>
+</p>
+<!-- LS BADGES END -->
 <p align="right">
   <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
-    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+    <img src="https://img.shields.io/badge/â†%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
 </p>
 
@@ -16,7 +25,7 @@ turn raw player forum/wiki comments into a short, realistic dev to-do list: them
 ## why it matters
 - surfaces real player pain quickly
 - keeps notes short and actionable
-- reduces “loudest voice” bias
+- reduces â€œloudest voiceâ€ bias
 
 ## try it in 5 minutes
 1) open **/docs/SETUP.md**  
@@ -24,7 +33,7 @@ turn raw player forum/wiki comments into a short, realistic dev to-do list: them
 3) run **/scripts/summarize.sh** (or .py) to get themes + a draft queue
 
 ## demo
-- 60–90s clip: **/demo/patch-notes-oracle-v0.mp4** *(placeholder)*
+- 60â€“90s clip: **/demo/patch-notes-oracle-v0.mp4** *(placeholder)*
 
 ## data policy
 - public repo uses **fake** comments only
@@ -32,7 +41,7 @@ turn raw player forum/wiki comments into a short, realistic dev to-do list: them
 
 ## roadmap (next 4 weeks)
 - [ ] wk1: keyword themes + baseline sentiment
-- [ ] wk2: “top 5 actions” with owners (mock)
+- [ ] wk2: â€œtop 5 actionsâ€ with owners (mock)
 - [ ] wk3: import from csv/google sheet
 - [ ] wk4: export patch-note-ready bullets
 
@@ -49,6 +58,7 @@ turn raw player forum/wiki comments into a short, realistic dev to-do list: them
 
 <p align="center">
   <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
-    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+    <img src="https://img.shields.io/badge/â†%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
 </p>
+
